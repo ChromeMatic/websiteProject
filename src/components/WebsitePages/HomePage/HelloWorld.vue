@@ -2,12 +2,11 @@
 Group Project
 Names & ID:
 Armani Brown 20171095
-Karrell Levy 20173772
 -->
 <template>
    <div>
        <div class="uk-background-cover uk-height-large uk-panel uk-flex uk-flex-center uk-flex-middle"
-            style="background-image: url(/cement-analysis.jpg);">
+            style="background-image: url(/cement21.jpg);">
        </div>
 
          <div class="uk-container uk-container-small">
