@@ -31,7 +31,7 @@ Karrell Levy 20173772
                            <div>
                                <div class="uk-background-muted uk-card uk-card-default uk-card-large uk-card-body">
                                    <h3 class="uk-card-title">Industrial Cement</h3>
-                                   <img src="../../../assets/HomePagePictures/cement2.png" width="252px" alt="">
+                                   <img src="../../../../../../Desktop/Website/src/assets/HomePagePictures/cement2.png" width="252px" alt="">
                                    <p>
                                         The second one is industrial cement mainly suited for: damns, skyscraper etc.
                                         This is made for structures that experiences high tension stress thought out
